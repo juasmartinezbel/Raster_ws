@@ -4,7 +4,7 @@
 
   - Los comandos fueron adaptados para que se cumpla la función esté en Mayúscula o en minúscula.
 
-| Plugin | Funcion |
+| Tecla | Funcion |
 | ------ | ------ |
 | A | Activa/Desactiva el antialiasing |
 | F | Rellena/Vacía el triángulo del color indicado |
